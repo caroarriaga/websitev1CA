@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:caro.arriaga@gmail.com'
+  prepend: 'mailto:'
 amazon:
   name: Amazon
   icon: icon-amazon
@@ -23,7 +23,7 @@ facebook:
 instagram:
   name: Instagram
   icon: icon-instagram
-  prepend: 'https://instagram.com/'
+  prepend: 'https://instagram.com/starstuffcaro'
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp
@@ -143,7 +143,7 @@ soundcloud:
   icon: icon-soundcloud
   prepend: "https://soundcloud.com/"
 skype:
-  name: caro.arriaga
+  name: Skype
   icon: icon-skype
 reddit:
   name: reddit

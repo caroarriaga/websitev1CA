@@ -3,13 +3,13 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Blog
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: Blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
+  Here you'll find the list of articles I've created related to Data Science, Career Development, and more. 
+  
 ---

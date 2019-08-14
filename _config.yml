@@ -24,17 +24,17 @@ title:                 Hydejack Starter Kit
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+  "Description".
+  Prescense web
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
+  "Sidebar description".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [data science, product management, women empowerment]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,14 +43,14 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Carolina> <Arriaga>
+  email:               <caro.arriaga@gmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             <thecaroarriaga>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Example title 1
     url:               /example/
   - title:             Documentation
     url:               https://hydejack.com/docs/

@@ -3,15 +3,16 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Carolina Arriaga
+  email:             caro.arriaga@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Successful entrepreneur and patent awarded thermal engineer Carolina is now pursuing her career in data science. 
+    As a physics nerd, she’s passionate about applied statistics and understanding the world through models. 
+    She prides herself on fostering inclusivity, empowering women and motivating people to reach their dreams. 
+    Outside of work, she loves playing board games, training casual acrobatics and discussing philosophy.
 
     Open `_data/authors.yml` to edit this text.
 
@@ -29,7 +30,7 @@ author1:
     twitter:         jekyllrb
     github:          qwtel/hydejack
     # download:        <url>
-    # email:           <mail@domain.tld>
+    email:           caro.arriaga@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +59,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        carolina-arriaga-1ab4726b
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

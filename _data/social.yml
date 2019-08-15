@@ -23,7 +23,7 @@ facebook:
 instagram:
   name: Instagram
   icon: icon-instagram
-  prepend: 'https://instagram.com/starstuffcaro'
+  prepend: 'https://instagram.com/'
 whatsapp:
   name: WhatsApp
   icon: icon-whatsapp
@@ -37,7 +37,7 @@ telegram:
 twitter:
   name: Twitter
   icon: icon-twitter
-  prepend: 'https://twitter.com/thecaroarriaga'
+  prepend: 'https://twitter.com/'
 vine:
   name: Vine
   icon: icon-vine
@@ -104,7 +104,7 @@ ondrive:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/caroarriaga"
+  prepend: "https://github.com/"
 npm:
   name: npm
   icon: icon-npm

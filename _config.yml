@@ -19,18 +19,18 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Data Science Journal
+title:                 Carolina Arriaga
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Description".
+  "CAAAAAROOOOOOOOOOOOOOOOOOO EXPLAIN ME".
   Prescense web
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Sidebar description".
+  "Model the world".
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
@@ -46,12 +46,12 @@ author:
   name:                Carolina Arriaga
   email:               caro.arriaga@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <thecaroarriaga>
+  twitter:             thecaroarriaga
 
 # Add links to the sidebar.
 menu:
-  - title:             Example title 1
-    url:               /example/
+  - title:             Blog
+    url:               /Blog/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About
@@ -80,7 +80,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/datapoints.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

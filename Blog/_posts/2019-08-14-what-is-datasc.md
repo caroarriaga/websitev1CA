@@ -112,10 +112,6 @@ If your score is < 3, you are only dreaming. Reserve dedicated spots in your wee
   - Can you expand the model?
   - Can be reused?
 
-### Venn Diagram
-
-![](https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png)
-
 ### Venn Diagram - Data Science
 
 ![](https://miro.medium.com/max/1200/1*mgXvzNcwfpnBawI6XTkVRg.png)

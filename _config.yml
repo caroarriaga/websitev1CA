@@ -19,14 +19,14 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Carolina Arriaga
+title:                 Modeling the world one day at a time.
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   "CAAAAAROOOOOOOOOOOOOOOOOOO EXPLAIN ME".
   Prescense web
-  Open `_config.yml` to edit this text.
+  Open `_config.yml` to edit this text.OPENOPENOPEN
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -38,7 +38,7 @@ keywords:              [data science, product management, women empowerment]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/caroicon1.png
+logo:                  
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:

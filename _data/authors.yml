@@ -14,11 +14,9 @@ author1:
     She prides herself on fostering inclusivity, empowering women and motivating people to reach their dreams. 
     Outside of work, she loves playing board games, training casual acrobatics and discussing philosophy.
 
-    Open `_data/authors.yml` to edit this text.
-
   # This photo will be used in the about section.
   picture:
-    path:            https://placehold.it/128x128
+    path:            /assets/img/caroicon1.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -27,8 +25,8 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    twitter:           <username>
-    github:            <username>
+    twitter:           thecaroarriaga
+    github:            caroarriaga
     # download:        <url>
     email:             <mail@domain.tld>
     # rss:             https://<url>/feed.xml

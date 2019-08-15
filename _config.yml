@@ -52,7 +52,7 @@ menu:
   - title:             Resume
     url:               /about/
   - title:             Blog
-    url:               https://caroarriaga.com/blog/
+    url:               /Blog/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About

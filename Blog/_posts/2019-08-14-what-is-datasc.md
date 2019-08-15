@@ -72,7 +72,7 @@ Example:
 | Ask yourself | Yes or No         | Points |
 |:-------------|:------------------|:------|
 | Min 1 project| Yes | 3  |
-| Min 1 article| Yes  | n3  |
+| Min 1 article| Yes  | 3  |
 | Documented   | No     | 0   |
 | Talked someone | No | 0  |
 

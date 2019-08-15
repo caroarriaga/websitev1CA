@@ -3,7 +3,7 @@ layout: post
 title: What is Data Science?
 description: >
   Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.
-image: /assets/img/blog/datascience_cover.jpg
+image: /assets/img/datascience_cover.jpg
 noindex: true
 ---
 

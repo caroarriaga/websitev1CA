@@ -79,7 +79,9 @@ Example:
 Total `Score of 6`.
 
 If your `score` is > 9, you are making a LOT of progress. Congratulations!
+
 If your `score` is 3 > score > 9, great progress - increase the bar.
+
 If your score is < 3, you are only dreaming. Reserve dedicated spots in your week to work in each of these areas.
 
 * * *
@@ -119,8 +121,8 @@ If your score is < 3, you are only dreaming. Reserve dedicated spots in your wee
 
 ### Definition (wiki)
 
-Data Science
+**Data Science**
 : Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.
 
-Fields
+**Fields**
 : Data Engineering, Data Mining, Machine Learning, Deep Learning

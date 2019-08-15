@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /Blog/
+    url:               https://caroarriaga.github.io/blog/
   - title:             Documentation
     url:               https://hydejack.com/docs/
   - title:             About
